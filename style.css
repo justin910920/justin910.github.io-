@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #1a1a2e;
+  color: #ffffff;
+}
+
+header {
+  background-color: #16213e;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#about, #portfolio {
+  margin: 20px;
+  padding: 20px;
+  background-color: #0f3460;
+  border-radius: 10px;
+}
+
+#about h2, #portfolio h2 {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #0f3460;
+  margin: 5px 0;
+  padding: 10px;
+  color: #ffffff;
+}
